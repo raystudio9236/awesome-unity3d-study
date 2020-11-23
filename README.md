@@ -12,8 +12,18 @@ Unity3d 学习资料汇总
 
 ### Cinemachine
 
+#### 文章
+
+- [【Cinemachine】VirtualCamera虚拟相机详解(一)](https://zhuanlan.zhihu.com/p/105925571)
+
 #### 视频
 
 - [Cinemachine](https://learn.unity.com/tutorial/cinemachine)
 - [通过2D3D实际案例学习Cinemachine虚拟相机](https://www.bilibili.com/video/BV1oa4y1s7gg)
 - [Unity实现尼尔机械纪元运镜设计](https://www.bilibili.com/video/av43069305)
+
+### SRP
+
+#### 视频
+
+- [详解Unity轻量级渲染管线LWRP](https://www.bilibili.com/video/BV1Ut411v7Ma)
