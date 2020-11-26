@@ -49,4 +49,8 @@ Unity3D 学习资料汇总
 
 - [Meet the Devs专题之新输入系统](https://www.bilibili.com/video/BV1Gt4y1X7s9)
 
+### 2.4 ShaderGraph
 
+#### 视频
+
+- [Unity Shader Graph 节点解析（一）Vector 1, Vector 2, Vector 3, Vector 4](https://www.bilibili.com/video/BV1Q4411R74E)
