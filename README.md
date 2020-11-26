@@ -54,3 +54,4 @@ Unity3D 学习资料汇总
 #### 视频
 
 - [Unity Shader Graph 节点解析（一）Vector 1, Vector 2, Vector 3, Vector 4](https://www.bilibili.com/video/BV1Q4411R74E)
+- [Unity Shader Graph 节点解析（二）Constant, Integer, Slider, Boolean, Color, Time](https://www.bilibili.com/video/BV1u4411R7Dz)
