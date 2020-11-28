@@ -65,5 +65,7 @@ Unity3D 学习资料汇总
 - [Unity Shader Graph 节点解析（十）Texel Size, Sampler State](https://www.bilibili.com/video/BV1rJ411J7NU)
 - [Unity Shader Graph 节点解析（十一）Texture 2D 相关节点](https://www.bilibili.com/video/BV137411f7kF)
 
+### 2.5 Visual Effect Graph
 
+- [Unity全新特效工具Visual Effect Graph分享](https://www.bilibili.com/video/BV1st411X7y7)
 
