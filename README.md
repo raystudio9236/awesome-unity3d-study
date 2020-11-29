@@ -69,3 +69,6 @@ Unity3D 学习资料汇总
 
 - [Unity全新特效工具Visual Effect Graph分享](https://www.bilibili.com/video/BV1st411X7y7)
 
+### 2.6 Timeline
+
+- [通过实际案例演示学习Timeline (2019.3)](https://www.bilibili.com/video/BV1gt4y1Y7LY)
