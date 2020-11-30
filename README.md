@@ -76,3 +76,5 @@ Unity3D 学习资料汇总
 #### 视频
 
 - [通过实际案例演示学习Timeline (2019.3)](https://www.bilibili.com/video/BV1gt4y1Y7LY)
+- [Timeline结合Cinemachine设计含有对话台词的过场动画](https://www.bilibili.com/video/BV11K4y1f7P4)
+- [触发与恢复含对话台词的过场动画](https://www.bilibili.com/video/BV1EK4y177c9)
