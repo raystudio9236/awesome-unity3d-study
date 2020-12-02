@@ -42,6 +42,7 @@ Unity3D 学习资料汇总
 #### 视频
 
 - [详解Unity轻量级渲染管线LWRP](https://www.bilibili.com/video/BV1Ut411v7Ma)
+- [URP通用渲染管线教程](https://www.bilibili.com/video/BV1Yh411X7kn)
 
 ### 2.3 InputSystem
 
