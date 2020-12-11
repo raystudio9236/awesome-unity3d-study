@@ -26,10 +26,12 @@ Unity3D 学习资料汇总
    * [2.6 Timeline](#26-timeline)
       * [视频](#视频-8)
 * [三 开源库](#三-开源库)
+   * [UI](#ui)
    * [Gizmo](#gizmo)
    * [Post-process](#post-process)
    * [InputSystem](#inputsystem)
    * [Utils](#utils)
+   * [ECS](#ecs)
 * [四 其他](#四-其他)
 
 ## 一 模块
@@ -114,27 +116,28 @@ Unity3D 学习资料汇总
 
 ### UI
 
-- [UIEffect](https://github.com/mob-sakai/UIEffect)
+- [UIEffect](https://github.com/mob-sakai/UIEffect): UIEffect provides visual effect components for Unity UI.
 
 ### Gizmo
 
-- [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo)
+- [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo): A runtime transform gizmo similar to unitys editor so you can translate (move, rotate, scale) objects at runtime.
 
 ### Post-process
 
-- [X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library)
+- [X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library): is a high quality post processing library for for Unity Post Processing Stack v2/LWRP/URP/HDRP
+- [Kino](https://github.com/keijiro/Kino): Kino is a collection of custom post-processing effects for Unity's [High Definition Render Pipeline](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@latest) (HDRP).
 
 ### InputSystem
 
-- [InputSystem_Warriors](https://github.com/UnityTechnologies/InputSystem_Warriors)
+- [InputSystem_Warriors](https://github.com/UnityTechnologies/InputSystem_Warriors): This Unity example project has been created to demonstrate a variety of tools and functionality with Unity's Input System.
 
 ### Utils
 
-- [Newtonsoft.Json for Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity)
+- [Newtonsoft.Json for Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity): Json.NET is a popular high-performance JSON framework for .NET and the most used framework throughout the whole .NET ecosystem.
 
 ### ECS
 
-- [MinecraftECS](https://github.com/UnityTechnologies/MinecraftECS)
+- [MinecraftECS](https://github.com/UnityTechnologies/MinecraftECS): This is a Workshop Project that made for a User group talk in Taiwan. It's about how to create a Minecraft-like environment with huge number of blocks using ECS.
 
 ## 四 其他
 
