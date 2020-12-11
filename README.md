@@ -112,6 +112,10 @@ Unity3D 学习资料汇总
 
 ## 三 开源库
 
+### UI
+
+- [UIEffect](https://github.com/mob-sakai/UIEffect)
+
 ### Gizmo
 
 - [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo)
