@@ -80,7 +80,7 @@ Unity3D 学习资料汇总
 - [Timeline结合Cinemachine设计含有对话台词的过场动画](https://www.bilibili.com/video/BV11K4y1f7P4)
 - [触发与恢复含对话台词的过场动画](https://www.bilibili.com/video/BV1EK4y177c9)
 
-## 三 Open Source
+## 三 开源库
 
 ### Gizmo
 
@@ -98,3 +98,6 @@ Unity3D 学习资料汇总
 
 - [Newtonsoft.Json for Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity)
 
+## 四 其他
+
+- [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
