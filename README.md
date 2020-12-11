@@ -93,3 +93,8 @@ Unity3D 学习资料汇总
 ### InputSystem
 
 - [InputSystem_Warriors](https://github.com/UnityTechnologies/InputSystem_Warriors)
+
+### Utils
+
+- [Newtonsoft.Json for Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity)
+
