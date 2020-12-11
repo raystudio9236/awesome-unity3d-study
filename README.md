@@ -89,3 +89,7 @@ Unity3D 学习资料汇总
 ### Post-process
 
 - [X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library)
+
+### InputSystem
+
+- [InputSystem_Warriors](https://github.com/UnityTechnologies/InputSystem_Warriors)
