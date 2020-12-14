@@ -139,6 +139,10 @@ Unity3D 学习资料汇总
 
 - [MinecraftECS](https://github.com/UnityTechnologies/MinecraftECS): This is a Workshop Project that made for a User group talk in Taiwan. It's about how to create a Minecraft-like environment with huge number of blocks using ECS.
 
+### Framework
+
+- [RPGCore](https://github.com/Fydar/RPGCore): RPGCore is a toolkit for producing RPG games and mechanics in C#.
+
 ## 四 其他
 
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
