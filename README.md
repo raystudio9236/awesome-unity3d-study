@@ -143,6 +143,10 @@ Unity3D 学习资料汇总
 
 - [RPGCore](https://github.com/Fydar/RPGCore): RPGCore is a toolkit for producing RPG games and mechanics in C#.
 
+### Shader
+
+- [kShading](https://github.com/Kink3d/kShading): Shading models for Unity’s Universal Render Pipeline.
+
 ## 四 其他
 
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
