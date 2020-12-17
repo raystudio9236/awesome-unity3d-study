@@ -151,7 +151,7 @@ Unity3D 学习资料汇总
 
 - [EasyButtons](https://github.com/madsbangh/EasyButtons): These tiny scripts add the ability to quickly show a button in the inspector for any zero-argument method.
 
-
+- [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender): Extend the Unity Toolbar with your own UI code.
 
 ## 四 其他
 
