@@ -147,6 +147,12 @@ Unity3D 学习资料汇总
 
 - [kShading](https://github.com/Kink3d/kShading): Shading models for Unity’s Universal Render Pipeline.
 
+### Editor
+
+- [EasyButtons](https://github.com/madsbangh/EasyButtons): These tiny scripts add the ability to quickly show a button in the inspector for any zero-argument method.
+
+
+
 ## 四 其他
 
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
