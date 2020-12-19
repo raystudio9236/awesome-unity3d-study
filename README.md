@@ -117,6 +117,7 @@ Unity3D 学习资料汇总
 ### UI
 
 - [UIEffect](https://github.com/mob-sakai/UIEffect): UIEffect provides visual effect components for Unity UI.
+- [Loop Scroll Rect](https://github.com/qiankanglai/LoopScrollRect): These scripts will make your UGUI ScrollRect reusing cells, to improve performance, loading time and draw calls.
 
 ### Gizmo
 
