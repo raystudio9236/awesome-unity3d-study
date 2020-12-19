@@ -139,6 +139,10 @@ Unity3D 学习资料汇总
 
 - [MinecraftECS](https://github.com/UnityTechnologies/MinecraftECS): This is a Workshop Project that made for a User group talk in Taiwan. It's about how to create a Minecraft-like environment with huge number of blocks using ECS.
 
+### AI
+
+- [EntitiesBT](https://github.com/quabug/EntitiesBT): Behavior Tree framework based on and used for Unity Entities (DOTS)
+
 ### Framework
 
 - [RPGCore](https://github.com/Fydar/RPGCore): RPGCore is a toolkit for producing RPG games and mechanics in C#.
