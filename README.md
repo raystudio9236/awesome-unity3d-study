@@ -146,6 +146,7 @@ Unity3D 学习资料汇总
 ### Shader
 
 - [kShading](https://github.com/Kink3d/kShading): Shading models for Unity’s Universal Render Pipeline.
+- [UnityURPUnlitScreenSpaceDecalShader](https://github.com/ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader): UnityURP-Unlit ScreenSpaceDecal Shader(SRP batcher compatible)
 
 ### Editor
 
