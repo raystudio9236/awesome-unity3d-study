@@ -148,6 +148,7 @@ Unity3D 学习资料汇总
 ### Framework
 
 - [RPGCore](https://github.com/Fydar/RPGCore): RPGCore is a toolkit for producing RPG games and mechanics in C#.
+- [AnyRPG](https://github.com/michaelday008/AnyRPGAlphaCode): AnyRPG is a Role Playing Game engine written in C# for Unity.
 
 ### Shader
 
