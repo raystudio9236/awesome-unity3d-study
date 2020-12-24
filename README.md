@@ -136,6 +136,7 @@ Unity3D 学习资料汇总
 
 - [Newtonsoft.Json for Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity): Json.NET is a popular high-performance JSON framework for .NET and the most used framework throughout the whole .NET ecosystem.
 - [odin-serializer](https://github.com/TeamSirenix/odin-serializer): Fast, robust, powerful and extendible .NET serializer built for Unity.
+- [AutoLOD](https://github.com/Unity-Technologies/AutoLOD): Automatic LOD generation + scene optimization.
 
 ### ECS
 
